@@ -5,6 +5,32 @@
 
 
 
+
+效果图:
+
+
+
+
+
+
+
+
+![image](https://github.com/hy285585804/HYGRUnlocked/blob/master/unlock.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+具体实现:
+
 添加 <HYUnlocked>文件夹到你的工程中
 
 
